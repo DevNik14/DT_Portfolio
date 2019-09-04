@@ -74,7 +74,13 @@ a:hover {
   font-weight: 300;
   line-height: 1.1;
 }
-
+.logo {
+    display: inline-block;
+    vertical-align: bottom;
+    float: left;
+    width: 70px;
+    height: 70px;
+}
 .avatar {
   width: 32px;
   height: 32px;
