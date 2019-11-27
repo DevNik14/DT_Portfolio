@@ -33,7 +33,10 @@ a:hover {
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
-
+.promo-header,
+.container-promotions .s-title {
+  font-weight: bold;
+}
 .p-r {
   position: relative;
 }
